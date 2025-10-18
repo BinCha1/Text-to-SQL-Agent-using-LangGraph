@@ -1,0 +1,19 @@
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-groq
+
+# Database
+SQLAlchemy
+
+# Utility & environment
+python-dotenv
+typing-extensions
+
+# Optional (recommended for data handling & testing)
+pandas
+
+# logging
+logging
+logging
