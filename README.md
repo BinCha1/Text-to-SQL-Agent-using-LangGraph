@@ -1,4 +1,4 @@
-# 🤖 Text-to-SQL Agent with LangGraph
+# Text-to-SQL Agent with LangGraph
 
 An intelligent agent that converts natural language questions into SQL queries and provides human-readable answers. Built with LangChain, LangGraph, and powered by Groq's fast LLM models.
 
@@ -15,7 +15,7 @@ An intelligent agent that converts natural language questions into SQL queries a
 - **Error Handling**: Robust error handling with fallback mechanisms
 - **Security**: Only SELECT queries allowed, prevents data modification -->
 
-## 🏗️ Architecture
+## Architecture
 
 The project uses a sophisticated multi-node workflow built with LangGraph:
 
